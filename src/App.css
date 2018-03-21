@@ -53,3 +53,19 @@
 .App-footer {
   padding: 20px;
 }
+
+.App-social-media {
+  text-align: center;
+}
+
+.App-social-media .App-icon {
+  margin-left: 10px;
+}
+
+.App-social-media .App-icon:first-child {
+  margin-left: 0;
+}
+
+.App-social-media img {
+  width: 32px;
+}
